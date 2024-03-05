@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Elementor Post Popup
  * Description: Elementor custom popup widgets .
- * Plugin URI:  https://github.com/abbasWJ
+ * Plugin URI:  https://github.com/abbasWJ/post-popup-plugin/
  * Version:     1.0.0
  * Author:      Ghulam Abbas
  * Author URI:  https://github.com/abbasWJ
